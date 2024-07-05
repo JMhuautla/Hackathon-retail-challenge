@@ -1,2 +1,2 @@
 # Hackathon-Online-Retail-SithScript
-¡Hackathon- TripleTen!-Online-Retail- Equipo SithScript Aquí la puedes ver los que hicimos. 
+¡Hackathon- TripleTen!-Online-Retail- Equipo SithScript Aquí  puedes ver lo que hicimos. 
